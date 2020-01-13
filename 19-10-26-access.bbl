@@ -1,0 +1,186 @@
+\begin{thebibliography}{10}
+
+\bibitem{cover1967nearest}
+Thomas~M Cover, Peter~E Hart, et~al.
+\newblock ``{Nearest Neighbor Pattern Classification}''.
+\newblock {\em \emph{\it IEEE transactions on information theory}},
+  13(1):21--27, 1967.
+
+\bibitem{bicego2016weighted}
+Manuele Bicego and Marco Loog.
+\newblock ``{Weighted K-nearest Neighbor Revisited}''.
+\newblock In {\em {\it Proceedings of the 23rd International Conference on
+  Pattern Recognition}}, pages 1642--1647. IEEE, 2016.
+
+\bibitem{Zhong:2017:IKC:3055635.3056604}
+Xiao-Feng Zhong, Shi-Ze Guo, Liang Gao, Hong Shan, and Jing-Hua Zheng.
+\newblock ``{An Improved k-NN Classification with Dynamic $k$}''.
+\newblock In {\em {\it Proceedings of the 9th International Conference on
+  Machine Learning and Computing}}, pages 211--216. ACM, 2017.
+
+\bibitem{goodfellow2014explaining}
+Ian~J Goodfellow, Jonathon Shlens, and Christian Szegedy.
+\newblock ``{Explaining and Harnessing Adversarial Examples}''.
+\newblock In {\em \emph{\it Proceedings of 3rd International Conference on
+  Learning Representations}}, pages 1--11, 2015.
+
+\bibitem{wang2017analyzing}
+Yizhen Wang, Somesh Jha, and Kamalika Chaudhuri.
+\newblock ``{Analyzing the Robustness of Nearest Neighbors to Adversarial
+  Examples}''.
+\newblock In {\em \it Proceedings of the 35th International Conference on
+  Machine Learning}, pages 5133--5142. PMLR, 2018.
+
+\bibitem{lin2011parameter}
+Shih-Wei Lin and Shih-Chieh Chen.
+\newblock ``{Parameter Tuning, Feature Selection and Weight Assignment of
+  Features for case-based Reasoning by Artificial Immune System}''.
+\newblock {\em \emph{\it Applied Soft Computing}}, 11(8):5042--5052, 2011.
+
+\bibitem{gordo2016deep}
+Albert Gordo, Jon Almaz{\'a}n, Jerome Revaud, and Diane Larlus.
+\newblock ``{Deep Image Retrieval: Learning Global Representations for Image
+  Search}''.
+\newblock In {\em \emph{\it Proceedings of European conference on computer
+  vision}}, pages 241--257. Springer, 2016.
+
+\bibitem{simard1998transformation}
+Patrice~Y Simard, Yann~A LeCun, John~S Denker, and Bernard Victorri.
+\newblock ``{Transformation invariance in pattern recognition—tangent
+  distance and tangent propagation}''.
+\newblock In {\em \it Proceedings of Neural networks: tricks of the trade},
+  pages 239--274. Springer, 1998.
+
+\bibitem{chaudhuri2014rates}
+Kamalika Chaudhuri and Sanjoy Dasgupta.
+\newblock ``{Rates of Convergence for Nearest Neighbor Classification}''.
+\newblock In {\em \emph{\it Proceedings of Advances in Neural Information
+  Processing Systems}}, pages 3437--3445, 2014.
+
+\bibitem{zhang2017efficient}
+Shichao Zhang, Xuelong Li, Ming Zong, Xiaofeng Zhu, and Ruili Wang.
+\newblock ``{Efficient Knn Classification with Different Numbers of Nearest
+  Neighbors}''.
+\newblock {\em {\it IEEE transactions on neural networks and learning
+  systems}}, 29(5):1774--1785, 2017.
+
+\bibitem{guyon2003introduction}
+Isabelle Guyon and Andr{\'e} Elisseeff.
+\newblock ``{An Introduction to Variable and Feature Selection}''.
+\newblock {\em \emph{\it Journal of machine learning research}},
+  3(3):1157--1182, 2003.
+
+\bibitem{draszawka2015improving}
+Karol Draszawka, Julian Szyma{\'n}ski, and Francesco Guerra.
+\newblock ``{Improving css-KNN Classification Performance by Shifts in Training
+  Data}''.
+\newblock In {\em \emph{\it Proceedings of International Conference on Semantic
+  Keyword-Based Search on Structured Data Sources}}, pages 51--63. Springer,
+  2015.
+
+\bibitem{pawlovsky2014method}
+Alberto~Palacios Pawlovsky and Mai Nagahashi.
+\newblock ``{A Method to Select a Good Setting for the KNN Algorithm When Using
+  It for Breast Cancer Prognosis}''.
+\newblock In {\em \emph{\it Proceedings of IEEE-EMBS International Conference
+  on Biomedical and Health Informatics (BHI)}}, pages 189--192. IEEE, 2014.
+
+\bibitem{shi2011improved}
+Kansheng Shi, Lemin Li, Haitao Liu, Jie He, Naitong Zhang, and Wentao Song.
+\newblock ``{An Improved KNN Text Classification Algorithm Based on Density}''.
+\newblock In {\em \emph{\it Proceedings of 2011 IEEE International Conference
+  on Cloud Computing and Intelligence Systems}}, pages 113--117. IEEE, 2011.
+
+\bibitem{el2006study}
+Neamat El~Gayar, Friedhelm Schwenker, and G{\"u}nther Palm.
+\newblock ``{A study of the robustness of KNN classifiers trained using soft
+  labels}''.
+\newblock In {\em \it Proceedings of IAPR Workshop on Artificial Neural
+  Networks in Pattern Recognition}, pages 67--80. Springer, 2006.
+
+\bibitem{zugner2018adversarial}
+Daniel Z{\"u}gner, Amir Akbarnejad, and Stephan G{\"u}nnemann.
+\newblock ``{Adversarial Attacks on Neural Networks for Graph Data}''.
+\newblock In {\em \emph{\it Proceedings of the 24th ACM SIGKDD International
+  Conference on Knowledge Discovery \& Data Mining}}, pages 2847--2856. ACM,
+  2018.
+
+\bibitem{szegedy2013intriguing}
+Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan,
+  Ian Goodfellow, and Rob Fergus.
+\newblock ``{Intriguing properties of neural networks}''.
+\newblock {\em \it arXiv preprint arXiv:1312.6199}, 2013.
+
+\bibitem{byrd1995limited}
+Richard~H Byrd, Peihuang Lu, Jorge Nocedal, and Ciyou Zhu.
+\newblock ``{A limited memory algorithm for bound constrained optimization}''.
+\newblock {\em \it SIAM Journal on Scientific Computing}, 16(5):1190--1208,
+  1995.
+
+\bibitem{tabacof2016exploring}
+Pedro Tabacof and Eduardo Valle.
+\newblock ``{Exploring the Space of Adversarial Images}''.
+\newblock In {\em \emph{\it Proceedings of 2016 International Joint Conference
+  on Neural Networks}}, pages 426--433. IEEE, 2016.
+
+\bibitem{carrara2017detecting}
+Fabio Carrara, Fabrizio Falchi, Roberto Caldelli, Giuseppe Amato, Roberta
+  Fumarola, and Rudy Becarelli.
+\newblock ``{Detecting Adversarial Example Attacks to Deep Neural Networks}''.
+\newblock In {\em \emph{\it Proceedings of the 15th International Workshop on
+  Content-Based Multimedia Indexing}}, pages 38:1--38:7. ACM, 2017.
+
+\bibitem{zhang2018nearest}
+Zhenguo Zhang, Yanlong Wen, Ying Zhang, and Xiaojie Yuan.
+\newblock ``{Nearest Subspace with Discriminative Regularization for Time
+  Series Classification}''.
+\newblock In {\em \emph{\it Proceedings of International Conference on Database
+  Systems for Advanced Applications}}, pages 583--599. Springer, 2018.
+
+\bibitem{gao2018self}
+Hongchang Gao and Heng Huang.
+\newblock ``{Self-paced Network Embedding}''.
+\newblock In {\em \emph{\it Proceedings of the 24th ACM SIGKDD International
+  Conference on Knowledge Discovery \& Data Mining}}, pages 1406--1415. ACM,
+  2018.
+
+\bibitem{karampatziakis2013discriminative}
+Nikos Karampatziakis and Paul Mineiro.
+\newblock ``{Discriminative Features via Generalized Eigenvectors}''.
+\newblock In {\em \emph{\it Proceedings of the 31th International Conference on
+  Machine Learning}}, pages 494--502, 2014.
+
+\bibitem{sani2017learning}
+Sadiq Sani, Nirmalie Wiratunga, and Stewart Massie.
+\newblock ``{Learning Deep Features for KNN-based Human Activity
+  Recognition}''.
+\newblock In {\em \it Proceedings of the ICCBR Workshops: Case-Based Reasoning
+  and Deep Learning Workshop}, pages 95--103. ICCBR (Organisers), 2017.
+
+\bibitem{chandrasekhar2016practical}
+Vijay Chandrasekhar, Jie Lin, Olivier Morere, Hanlin Goh, and Antoine Veillard.
+\newblock ``{A Practical Guide to CNNs and Fisher Vectors for Image Instance
+  Retrieval}''.
+\newblock {\em \emph{\it Signal Processing}}, 128(11):426--439, 2016.
+
+\bibitem{sugiyama2007dimensionality}
+Masashi Sugiyama.
+\newblock ``{Dimensionality Reduction of Multimodal Labeled Data by Local
+  Fisher Discriminant Analysis}''.
+\newblock {\em \emph{\it Journal of machine learning research}},
+  8(5):1027--1061, 2007.
+
+\bibitem{liu2011k}
+Yiguang Liu, Shuzhi~Sam Ge, Chunguang Li, and Zhisheng You.
+\newblock ``{$ k $-NS: A Classifier by the Distance to the Nearest Subspace}''.
+\newblock {\em \emph{\it IEEE Transactions on Neural Networks}},
+  22(8):1256--1268, 2011.
+
+\bibitem{sermanet2013overfeat}
+Pierre Sermanet, David Eigen, Xiang Zhang, Micha{\"e}l Mathieu, Rob Fergus, and
+  Yann LeCun.
+\newblock ``{Overfeat: Integrated recognition, localization and detection using
+  convolutional networks}''.
+\newblock {\em \it arXiv preprint arXiv:1312.6229}, 2013.
+
+\end{thebibliography}
